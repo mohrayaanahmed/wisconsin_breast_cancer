@@ -19,3 +19,6 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 8. Purity: Purity is an evaluation metric of clustering like k-means. It basically describes the accuracy of a cluster. READ MORE: (https://towardsdatascience.com/evaluation-metrics-for-clustering-models-5dde821dd6cd?gi=716ae146da5c#:~:text=Purity%20is%20quite%20simple%20to,number%20of%20total%20data%20points.&text=Each%20cluster%20is%20assigned%20with%20the%20most%20frequent%20class%20label.) 
 
 ### **Results:**
+Linear discriminant analysis accuracy: 0.969
+k-NN accuracy: 0.9507 and 09648
+k-means purity: 0.9121
